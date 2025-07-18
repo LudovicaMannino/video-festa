@@ -13,8 +13,8 @@
     }
     @font-face {
         font-family: 'ShrekAlt';
-        src: url('fonts/ShrekAlt.woff') format('woff'),
-             url('fonts/ShrekAlt.ttf') format('truetype');
+        src: url('ShrekAlt.woff') format('woff'),
+             url('ShrekAlt.ttf') format('truetype');
       }
       
 
